@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+https://github.com/LAION-AI/Open-Assistant
+
+https://github.com/lucidrains/PaLM-rlhf-pytorch
+
 https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
 
 <!---
