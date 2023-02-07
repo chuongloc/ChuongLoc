@@ -8,6 +8,8 @@ https://github.com/LAION-AI/Open-Assistant
 
 https://github.com/lucidrains/PaLM-rlhf-pytorch
 
+https://github.com/multi-template-matching/MultiTemplateMatching-Python
+
 https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
 
 <!---
