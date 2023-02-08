@@ -8,7 +8,7 @@ https://doc.perclass.com/perClass_Toolbox/guide/feature_extraction/region.html#r
 
 https://spacy.io/
 
-https://github.com/multi-template-matching/MultiTemplateMatching-Python](https://spacy.io/)
+https://github.com/multi-template-matching/MultiTemplateMatching-Python]
 
 https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
 
