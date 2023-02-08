@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+https://doc.perclass.com/perClass_Toolbox/guide/feature_extraction/region.html#region:grid
+
 https://spacy.io/
 
 https://github.com/multi-template-matching/MultiTemplateMatching-Python](https://spacy.io/)
