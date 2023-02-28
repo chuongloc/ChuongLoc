@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-https://projects.laion.ai/Open-Assistant/docs/guides/developers
+https://jax.readthedocs.io/en/latest/index.html
 
 <!---
 ChuongLoc/ChuongLoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
