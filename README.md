@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+https://scikit-image.org/docs/stable/auto_examples/applications/plot_morphology.html
+
 https://www.mvtec.com/
 
 <!---
