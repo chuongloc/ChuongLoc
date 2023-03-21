@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+https://machinelearningmastery.com/one-class-classification-algorithms/
+
 https://github.com/bentrevett/a-tour-of-pytorch-optimizers/blob/main/a-tour-of-pytorch-optimizers.ipynb
 
 https://github.com/bentrevett/pytorch-image-classification
