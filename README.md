@@ -8,6 +8,8 @@ https://lightning.ai/docs/pytorch/latest/
 
 https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
 
+https://github.com/deeplearningzerotoall/PyTorch
+
 https://github.com/ChuongLoc/Transformers-Tutorials
 
 https://www.kaggle.com/code/myominhtet/steel-defection
