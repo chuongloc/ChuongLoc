@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+https://peps.python.org/pep-0000/
+
 https://peps.python.org/pep-0257/
 
 https://peps.python.org/pep-0008/
