@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+https://aistudio.baidu.com/aistudio/projectdetail/3916206?lang=en
+
+http://tutorials.aiclub.cs.uit.edu.vn/index.php/2022/04/20/nhan-dang-chu-tieng-viet-trong-anh-ngoai-canh/
+
 https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/PPOCRLabel/README.md
 
 https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_en/PP-OCRv3_introduction_en.md
