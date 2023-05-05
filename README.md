@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+https://github.com/ChuongLoc/Total-Text-Dataset
+
+https://github.com/Yuliang-Liu/bezier_curve_text_spotting
+
+https://github.com/Yuliang-Liu/Curve-Text-Detector
+
 https://kdmurray.id.au/post/2022-03-21_decode-qrcodes/
 
 http://www.vs.inf.ethz.ch/publ/papers/soeroesg-iswc2015-BlurryQRScanning-talk.pdf
