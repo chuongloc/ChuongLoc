@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+https://github.com/edward-wq/books/blob/master/computer%20vision%20Algorithms%20and%20Applications.pdf
+
 https://www.tutorialandexample.com/
 
 https://github.com/ChuongLoc/Total-Text-Dataset
