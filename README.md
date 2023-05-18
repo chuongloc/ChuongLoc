@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+https://stackoverflow.com/questions/72611914/error-could-not-build-wheels-for-pycocotools-which-is-required-to-install-pypr
+
 https://askubuntu.com/questions/1206703/how-to-uninstall-python-3-8-from-ubuntu-after-deleting-the-folder-python-3-8-0-u
 
 https://github.com/tensorflow/models/issues/9634
