@@ -18,3 +18,36 @@ https://www.tensorflow.org/install/pip
 ChuongLoc/ChuongLoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+    docker run  -it  --gpus all --name mytf2 --workdir /ML_SUBAPP_S2  --volume /home/greystone/mytf2:/home/greystone tensorflow/tensorflow:2.2.0-gpu
+
+    sudo apt-get update && sudo apt-get upgrade
+
+    sudo apt-get install python3.8
+
+    sudo rm /usr/bin/python3 
+
+    sudo ln /usr/bin/python3.8 /usr/bin/python3
+
+    sudo apt install python3.8-dev
+
+    python -m pip install --upgrade pip
+
+    pip install pycodestyle
+
+    apt install protobuf-compiler -y
+
+    pip install --upgrade pip
+
+    pip install pycocotools
+
+    python -m pip install .
+
+    ls /usr/local/cuda*
+
+    export PATH=/usr/local/cuda-10.1/bin${PATH:+:${PATH}}
+
+    export LD_LIBRARY_PATH=/usr/local/cuda-10.1/lib64 {LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+
+    python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+
