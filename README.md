@@ -50,4 +50,12 @@ You can click the Preview link to take a look at your changes.
     export LD_LIBRARY_PATH=/usr/local/cuda-10.1/lib64 {LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
 
     python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+    
+    numpy 1.23
+    
+    protobuf==3.20.3
+
+    docker run  -it  --gpus all --name mytf2 --workdir /ML_SUBAPP_S2  --volume /home/mytf2:/home/greystone tensorflow/tensorflow:2.6.1-gpu
+
+    scp -r greystone@172.16.21.79:/home/greystone/mytf2 /home
 
