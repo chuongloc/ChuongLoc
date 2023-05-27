@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://hackernoon.com/
+
 https://tiensu.github.io/about/
 
 https://tiensu.github.io/blog/55_siamese_network/
