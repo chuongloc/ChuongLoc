@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://github.com/HCIILAB/Scene-Text-Detection
+
 https://hackernoon.com/
 
 https://tiensu.github.io/about/
