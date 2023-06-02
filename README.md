@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://distill.pub/2019/gan-open-problems/
+
+https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c
+
+https://distill.pub/
+
 https://github.com/HCIILAB/Scene-Text-Detection
 
 https://hackernoon.com/
