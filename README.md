@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://stackoverflow.com/questions/48111847/tensorflow-object-detection-api-what-do-the-losses-mean-in-the-object-detectio
+
 https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f623a52
 
 https://neptune.ai/blog/tensorflow-object-detection-api-best-practices-to-training-evaluation-deployment
