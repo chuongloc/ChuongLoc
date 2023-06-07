@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f623a52
+
 https://neptune.ai/blog/tensorflow-object-detection-api-best-practices-to-training-evaluation-deployment
 
 https://neptune.ai/blog/how-to-train-your-own-object-detector-using-tensorflow-object-detection-api
