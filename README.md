@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://github.com/ChuongLoc/CTCWordBeamSearch
+
+https://github.com/githubharald/SimpleHTR
+
 https://stackoverflow.com/questions/38025838/normalizing-images-in-opencv-produces-black-image
 
 https://docs.nvidia.com/deploy/cuda-compatibility/index.html
