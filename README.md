@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://developer.nvidia.com/cuda-gpus
+
 https://github.com/ChuongLoc/CTCWordBeamSearch
 
 https://github.com/githubharald/SimpleHTR
