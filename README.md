@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @ChuongLoc
 
-tf2 
+tf2+tf1 
 
 https://gilberttanner.com/blog/train-a-mask-r-cnn-model-with-the-tensorflow-object-detection-api/
 
 https://github.com/TannerGilbert/Tensorflow-Object-Detection-API-train-custom-Mask-R-CNN-model/tree/master
 
-other
+https://github.com/divamgupta/image-segmentation-keras
 
 https://developer.nvidia.com/cuda-gpus
 
