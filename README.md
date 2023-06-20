@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://towardsai.net/p/machine-learning/understanding-pascal-voc-and-coco-annotations-for-object-detection
+
 https://github.com/Canjie-Luo/MORAN_v2
 
 https://github.com/divamgupta/image-segmentation-keras
