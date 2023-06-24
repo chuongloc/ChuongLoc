@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://github.com/jakeret/unet
+
+https://github.com/Hulkido/RCNN
+
 https://towardsai.net/p/machine-learning/understanding-pascal-voc-and-coco-annotations-for-object-detection
 
 https://github.com/Canjie-Luo/MORAN_v2
