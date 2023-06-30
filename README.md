@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://github.com/oh-my-ocr/text_renderer
+
 https://github.com/sglvladi/TensorFlowObjectDetectionTutorial/tree/master
 
 https://github.com/jakeret/unet
