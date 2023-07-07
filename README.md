@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://towardsdatascience.com/map-mean-average-precision-might-confuse-you-5956f1bfa9e2#:~:text=The%20mean%20Average%20Precision%20or,an%20IoU%20threshold%20of%200.5.
+
 https://datascience.stackexchange.com/
 
 https://github.com/oh-my-ocr/text_renderer
