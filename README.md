@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://datascience.stackexchange.com/
+
 https://github.com/oh-my-ocr/text_renderer
 
 https://github.com/sglvladi/TensorFlowObjectDetectionTutorial/tree/master
