@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://docs.nvidia.com/cuda/pdf/CUDA_Installation_Guide_Linux.pdf
+
 https://pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
 
 https://github.com/YunYang1994/TensorFlow2.0-Examples
