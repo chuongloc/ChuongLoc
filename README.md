@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://gist.github.com/espoirMur/65cec3d67e0a96e270860c9c276ab9fa
+
 https://docs.nvidia.com/cuda/pdf/CUDA_Installation_Guide_Linux.pdf
 
 https://pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
