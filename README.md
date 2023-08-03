@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://phoenixnap.com/kb/install-nvidia-drivers-ubuntu
+
 https://www.kaggle.com/code/cdeotte/titanic-wcg-xgboost-0-84688
 
 https://gist.github.com/espoirMur/65cec3d67e0a96e270860c9c276ab9fa
