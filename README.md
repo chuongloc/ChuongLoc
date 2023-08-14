@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
+
+https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+
 https://phoenixnap.com/kb/install-nvidia-drivers-ubuntu
 
 https://www.kaggle.com/code/cdeotte/titanic-wcg-xgboost-0-84688
