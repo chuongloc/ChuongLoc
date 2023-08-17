@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications
+
 https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 
 https://phoenixnap.com/kb/install-nvidia-drivers-ubuntu
