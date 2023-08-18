@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://github.com/CompVis/latent-diffusion
+
 https://runwayml.com/
 
 https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications
