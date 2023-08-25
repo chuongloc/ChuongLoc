@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://github.com/xuebinqin/DIS
+
 https://github.com/CompVis/latent-diffusion
 
 https://runwayml.com/
