@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://github.com/FatemeZamanian/Yolov5-Fruit-Detector
+
 https://github.com/backseason/PoolNet
 
 https://github.com/xuebinqin/DIS
