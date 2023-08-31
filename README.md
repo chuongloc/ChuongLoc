@@ -1,5 +1,17 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://machinelearningmastery.com/blog
+
+https://blog.research.google/
+
+https://www.kdnuggets.com/
+
+https://openai.com/blog
+
+https://bair.berkeley.edu/blog/
+
+https://www.fast.ai/
+
 https://github.com/ChuongLoc/C-Plus-Plus
 
 https://stackoverflow.com/questions/42262198/4-point-persective-transform-failure
