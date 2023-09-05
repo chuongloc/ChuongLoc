@@ -1,5 +1,16 @@
 - 👋 Hi, I’m @ChuongLoc
 
+    *.h5
+    *.pb
+    *.pd
+    *.pth
+    *.pt
+    *.ckpt
+    *.pbtxt
+    *.onnx
+    *.xml
+    *.bin
+
 https://machinelearningmastery.com/blog
 
 https://blog.research.google/
