@@ -11,6 +11,10 @@
     *.xml
     *.bin
 
+https://github.com/peternara/CRAFT-tensorflow-OCR-Text-Detection/tree/master
+https://github.com/pythonlessons/mltu/tree/main/Tutorials
+---
+
 https://pyimagesearch.com/2023/09/11/sam-from-meta-ai-part-1-segmentation-with-prompts/?utm_source=Drip&utm_medium=Email&utm_campaign=WeeklyUpdate&utm_content=11September2023NonUnivLink3DoYouHaveAnOpenCVProjectInMind
 
 https://machinelearningmastery.com/blog
