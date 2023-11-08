@@ -1,15 +1,9 @@
 - 👋 Hi, I’m @ChuongLoc
 
 
-https://github.com/pythonlessons/mltu/tree/main/Tutorials](https://github.com/Calamari-OCR/calamari)
+https://forecastegy.com/posts/best-machine-learning-courses-coursera/#advanced-learning-algorithms
 
-https://pyimagesearch.com/2023/09/11/sam-from-meta-ai-part-1-segmentation-with-prompts/?utm_source=Drip&utm_medium=Email&utm_campaign=WeeklyUpdate&utm_content=11September2023NonUnivLink3DoYouHaveAnOpenCVProjectInMind
-
-https://bair.berkeley.edu/blog/
-
-https://stackoverflow.com/questions/42262198/4-point-persective-transform-failure
-
-https://github.com/FatemeZamanian/Yolov5-Fruit-Detector
+https://forecastegy.com/posts/best-data-analytics-courses-coursera/
 
 https://github.com/backseason/PoolNet
 
