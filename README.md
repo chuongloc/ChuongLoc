@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @ChuongLoc
 
 
+https://www.linkedin.com/pulse/my-tips-achieving-all-12-aws-certifications-chee-siong
+
+https://www.whizlabs.com/blog/which-aws-certification-should-i-choose/
+
+
 https://forecastegy.com/posts/best-machine-learning-courses-coursera/#advanced-learning-algorithms
 
 https://forecastegy.com/posts/best-data-analytics-courses-coursera/
