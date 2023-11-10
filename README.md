@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://aws.amazon.com/blogs/apn/how-to-get-aws-certified-tips-from-a-devops-engineer/
 
 https://www.linkedin.com/pulse/my-tips-achieving-all-12-aws-certifications-chee-siong
 
