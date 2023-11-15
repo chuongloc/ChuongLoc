@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://github.com/khuyentran1401/Data-science#mlops
+
 https://github.com/huggingface/transformers
 
 https://d1.awsstatic.com/whitepapers/aws-overview.pdf
