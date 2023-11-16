@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html
+
 https://github.com/khuyentran1401/Data-science#mlops
 
 https://github.com/huggingface/transformers
@@ -17,7 +19,6 @@ https://aws.amazon.com/blogs/apn/how-to-get-aws-certified-tips-from-a-devops-eng
 https://www.linkedin.com/pulse/my-tips-achieving-all-12-aws-certifications-chee-siong
 
 https://www.whizlabs.com/blog/which-aws-certification-should-i-choose/
-
 
 https://forecastegy.com/posts/best-machine-learning-courses-coursera/#advanced-learning-algorithms
 
