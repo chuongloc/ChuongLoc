@@ -14,7 +14,6 @@ https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/ind
 
 https://github.com/anderskm/gputil
 
-
 Choosing the "best" book for Natural Language Processing (NLP) can depend on your background, your specific interests within NLP, and your level of expertise. Here are some widely recognized and well-regarded books on NLP that cover various aspects of the field:
 
 "Speech and Language Processing" by Daniel Jurafsky and James H. Martin:
@@ -39,3 +38,4 @@ If you're looking for a more hands-on approach using Python, this book can be a 
 
 This is the latest edition of the Jurafsky and Martin book, available as a draft. It's updated to reflect recent developments in the field.
 Remember that NLP is a rapidly evolving field, so it's often beneficial to complement books with online resources, research papers, and practical projects to stay current with the latest advancements and trends.
+](https://www.manning.com/books/natural-language-processing-in-action)https://www.manning.com/books/natural-language-processing-in-action
