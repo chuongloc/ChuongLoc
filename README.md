@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://trevormcguire.medium.com/attention-transformers-and-gpt-b3adbbb4a950
+
 https://python.langchain.com/docs/get_started/introduction
 
 https://www.datacamp.com/tutorial/pyspark-tutorial-getting-started-with-pyspark
