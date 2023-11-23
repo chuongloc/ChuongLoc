@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://www.ibm.com/think/artificial-intelligence
+
 https://trevormcguire.medium.com/attention-transformers-and-gpt-b3adbbb4a950
 
 https://python.langchain.com/docs/get_started/introduction
