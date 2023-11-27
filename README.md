@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://github.com/veb-101/Data-Science-Projects
+
 https://github.com/trevormcguire/blog/blob/main/transformer/Attention%2C%20Transformers%2C%20and%20GPT.ipynb
 
 https://www.ibm.com/think/artificial-intelligence
