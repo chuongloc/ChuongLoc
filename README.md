@@ -6,6 +6,8 @@ https://github.com/trevormcguire/blog/blob/main/transformer/Attention%2C%20Trans
 
 https://www.ibm.com/think/artificial-intelligence
 
+https://www.redhat.com/en/topics/automation/what-is-yaml
+
 https://trevormcguire.medium.com/attention-transformers-and-gpt-b3adbbb4a950
 
 https://python.langchain.com/docs/get_started/introduction
