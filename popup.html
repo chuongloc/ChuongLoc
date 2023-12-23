@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML Popup Example</title>
+  <style>
+    /* Style for the overlay background */
+    .overlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.7);
+      align-items: center;
+      justify-content: center;
+      z-index: 1;
+    }
+
+    /* Style for the popup container */
+    .popup {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+      text-align: center;
+    }
+
+    /* Close button style */
+    .close-btn {
+      cursor: pointer;
+      font-size: 20px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+<!-- Button to open the popup -->
+<button onclick="openPopup()">Open Popup</button>
+
+<!-- The overlay and popup container -->
+<div class="overlay" id="overlay">
+  <div class="popup">
+    <span class="close-btn" onclick="closePopup()">&times;</span>
+    <h2>This is a Popup</h2>
+    <p>Popup content goes here.</p>
+  </div>
+</div>
+
+<script>
+  // Function to open the popup
+  function openPopup() {
+    document.getElementById('overlay').style.display = 'flex';
+  }
+
+  // Function to close the popup
+  function closePopup() {
+    document.getElementById('overlay').style.display = 'none';
+  }
+</script>
+
+</body>
+</html>
+
