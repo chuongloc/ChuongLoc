@@ -10,8 +10,7 @@
         <body>
         
         <button>
-          <img src="your-svg-image.svg" alt="SVG Image">
-          Click me
+          <img src="Arch_Amazon-Elastic-Container-Service_16.svg" alt="SVG Image" style="height:50px;width:50px">
         </button>
         
         </body>
