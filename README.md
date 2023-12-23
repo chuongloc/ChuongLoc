@@ -1,14 +1,22 @@
 - 👋 Hi, I’m @ChuongLoc
 
-https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_onclick
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>SVG Button Example</title>
+    </head>
+    <body>
+    
+    <button>
+      <img src="your-svg-image.svg" alt="SVG Image">
+      Click me
+    </button>
+    
+    </body>
+    </html>
 
-https://www.w3schools.com/howto/howto_js_popup.asp
-
-https://codeconvey.com/Tutorials/display-message-on-button-click-in-html/
-
-https://github.com/EthicalML/awesome-production-machine-learning
-
-https://github.com/vinthony/ghost-free-shadow-removal
 
 https://github.com/jiangsutx/SRN-Deblur
 
