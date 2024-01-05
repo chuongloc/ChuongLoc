@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/tree/master
+
 https://github.com/ChuongLoc/RetinexNet
 
 https://www.geeksforgeeks.org/introduction-to-hashing-data-structure-and-algorithm-tutorials/
