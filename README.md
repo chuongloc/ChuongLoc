@@ -13,3 +13,11 @@ https://github.com/ChuongLoc/llm-course
 https://github.com/jiangsutx/SRN-Deblur
 
 https://github.com/subeeshvasu/Awesome-Deblurring
+
+<div class="hide-star">
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ChuongLoc/ChuongLoc&type=Date)](https://star-history.com/#ChuongLoc/ChuongLoc&Date)
+
+</div>
