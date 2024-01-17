@@ -13,6 +13,10 @@ https://github.com/ChuongLoc/llm-course
 https://github.com/jiangsutx/SRN-Deblur
 
 https://github.com/subeeshvasu/Awesome-Deblurring
+    
+    sudo add-apt-repository ppa:umang/indicator-stickynotes
+    sudo apt-get update
+    sudo apt-get install indicator-stickynotes
 
 <div class="hide-star">
 
