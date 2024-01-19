@@ -18,7 +18,10 @@ https://github.com/subeeshvasu/Awesome-Deblurring
     sudo apt-get update
     sudo apt-get install indicator-stickynotes
 
+https://www.1stvision.com/cameras/IDS/IDS-manuals/en/program-set-parameters-generic-sdk.html
+
 <div class="hide-star">
+
 
 ## Star History
 
