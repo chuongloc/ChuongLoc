@@ -20,6 +20,8 @@ https://github.com/subeeshvasu/Awesome-Deblurring
 
 https://www.1stvision.com/cameras/IDS/IDS-manuals/en/program-set-parameters-generic-sdk.html
 
+https://github.com/ibaiGorordo/ONNX-YOLOv8-Instance-Segmentation/blob/main/yoloseg/YOLOSeg.py
+
 <div class="hide-star">
 
 
