@@ -12,11 +12,10 @@ https://github.com/subeeshvasu/Awesome-Deblurring
     sudo apt-get update
     sudo apt-get install indicator-stickynotes
 
-https://github.com/ryanxjhan/TensorFlow-2.x-Cheat-Sheet
-
 https://www.1stvision.com/cameras/IDS/IDS-manuals/en/program-set-parameters-generic-sdk.html
 
-https://github.com/ibaiGorordo/ONNX-YOLOv8-Instance-Segmentation/blob/main/yoloseg/YOLOSeg.py
+https://www.e-consystems.com/blog/camera/technology/how-to-access-cameras-using-opencv-with-python/
+https://www.e-consystems.com/blog/camera/products/accessing-see3cam-custom-format-with-opencv/
 
 <div class="hide-star">
 
