@@ -12,6 +12,8 @@ https://github.com/subeeshvasu/Awesome-Deblurring
     sudo apt-get update
     sudo apt-get install indicator-stickynotes
 
+https://pyimagesearch.com/2014/11/24/detecting-barcodes-images-python-opencv/
+
 https://www.1stvision.com/cameras/IDS/IDS-manuals/en/program-set-parameters-generic-sdk.html
 
 https://www.e-consystems.com/blog/camera/technology/how-to-access-cameras-using-opencv-with-python/
