@@ -1,32 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
-https://github.com/ChuongLoc/RetinexNet
+https://github.com/econsystems/opencv/tree/master
 
-https://github.com/ChuongLoc/llm-course
+https://www.e-consystems.com/blog/camera/tag/opencv/
 
-https://github.com/jiangsutx/SRN-Deblur
-
-https://github.com/subeeshvasu/Awesome-Deblurring
-    
-    sudo add-apt-repository ppa:umang/indicator-stickynotes
-    sudo apt-get update
-    sudo apt-get install indicator-stickynotes
-
-https://pyimagesearch.com/2014/11/24/detecting-barcodes-images-python-opencv/
-
-https://www.1stvision.com/cameras/IDS/IDS-manuals/en/program-set-parameters-generic-sdk.html
-
-https://www.e-consystems.com/blog/camera/technology/how-to-access-cameras-using-opencv-with-python/
-
-https://www.e-consystems.com/blog/camera/products/accessing-see3cam-custom-format-with-opencv/
-
-http://yuzhikov.com/articles/BlurredImagesRestoration1.htm
-
-<div class="hide-star">
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ChuongLoc/ChuongLoc&type=Date)](https://star-history.com/#ChuongLoc/ChuongLoc&Date)
-
-</div>
+https://pypi.org/project/v4l2py/
