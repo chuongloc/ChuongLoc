@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://visionandimaging.com/how-to-access-camera-controls-and-resolution-using-opencv-python/
+
 https://www.youtube.com/watch?v=jx_Ws_IojyE
 
 https://github.com/econsystems/opencv/tree/master
