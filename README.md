@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ChuongLoc
 
+https://www.youtube.com/watch?v=jx_Ws_IojyE
+
 https://github.com/econsystems/opencv/tree/master
 
 https://www.e-consystems.com/blog/camera/tag/opencv/
